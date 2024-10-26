@@ -3,3 +3,4 @@ Flask-CORS
 selenium
 pillow
 pytesseract
+gunicorn
